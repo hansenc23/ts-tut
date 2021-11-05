@@ -3,7 +3,7 @@ const profile = {
   age: 20,
   coords: {
     lat: 0,
-    lng: 15,
+    lng: 14,
   },
   setAge(age: number): void {
     this.age = age;
